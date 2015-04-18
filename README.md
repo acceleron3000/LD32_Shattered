@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 UE4 First Person VR Template
 ============================
 This is a template taking the base UE4 First Person template and making a from the ground up VR focused template with comfort and usability optimisations
@@ -23,3 +24,7 @@ Installation
 1. Download the Template
 1. Unzip the package into your templates directory, generally in 'C:\Program Files\Unreal Engine[Version]\Templates'
 1. Open UE4 and create a new project you should see a new option 'Rift First Person' choose that
+=======
+# LD32_Shatters
+game jam game for Ludum Dare 32
+>>>>>>> d53271065bd4f5ca763e8b7d538c72f94f7d0f28
